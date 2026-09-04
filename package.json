@@ -1,0 +1,35 @@
+{
+  "name": "react-native-starter-builder-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "expo": "~54.0.34",
+    "expo-status-bar": "~3.0.9",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-native": "0.81.5",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "private": true,
+  "description": "Esse projeto é uma referência para iniciar aplicativos com [React Native](https://reactnative.dev/]).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-ALR/listagem_usuarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Matheus-ALR/listagem_usuarios/issues"
+  },
+  "homepage": "https://github.com/Matheus-ALR/listagem_usuarios#readme"
+}
